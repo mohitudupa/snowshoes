@@ -1,2 +1,2 @@
 # snowshoes
-Utility and helper package for Go
+Utility and helper module for Go
